@@ -1,6 +1,7 @@
 # webpage
 
-> A Vue.js project
+> A Vue.js project 
+> media website design & development
 
 ## Build Setup
 
